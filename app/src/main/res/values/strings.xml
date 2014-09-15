@@ -4,5 +4,13 @@
     <string name="app_name">SelfSecured</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string-array name="featurelist">
+        <item>Home</item>
+        <item>Settings</item>
+        <item>Panic Button</item>
+        <item>Timer</item>
+        <item>Push to Social</item>
+        <item>Emergency References</item>
+    </string-array>
 
 </resources>
