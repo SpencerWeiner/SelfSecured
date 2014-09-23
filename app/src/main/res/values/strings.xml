@@ -4,6 +4,9 @@
     <string name="app_name">SelfSecured</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="nav_title">Jump to feature</string>
+    <string name="nav_open_title">Open navigation drawer</string>
+    <string name="nav_close_title">Close navigation drawer</string>
     <string-array name="featurelist">
         <item>Home</item>
         <item>Settings</item>
